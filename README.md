@@ -1,15 +1,15 @@
 Herausgegeben unter folgender Lizenz:
-CC BY-SA 4.0 DEED
+CC BY-SA 4.0
 (https://creativecommons.org/licenses/by-sa/4.0/deed.de)
 
 Herausgeber:innen:
-- Prof. Dr. Langner, M.
-- Dr. Reitemeier, F.
-- Prof. Dr. Wesche, J.
+- Langner, Martin
+- Reitemeier, Frauke
+- Wesche, Jörg
 
 Autor:innen:
-- Ehlers, D.
-- Kreten, T.
-- Langer, T.
-- Schrötke, L.
-- Strüber, B.
+- Ehlers, Deborah
+- Kreten, Tobias
+- Langer, Thorben
+- Schrötke, Lena
+- Strüber, Berit
